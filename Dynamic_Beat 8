@@ -408,3 +408,4 @@ public class Dynamic_Beat extends JFrame {
                 background = new ImageIcon(Main.class.getResource("../images/gamePlayBackground.png")).getImage();
         }
 }
+
